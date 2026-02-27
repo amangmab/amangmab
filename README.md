@@ -19,7 +19,7 @@ I build practical security projects that demonstrate security monitoring, alert 
 
 - **Vulnerability Management Lab**
   - Baseline scans, risk-based prioritization, remediation, and validation via re-scans  
-  Repo: https://github.com/amangmab/vulnerability-management-lab
+  Repo: https://github.com/amangmab/vulnerability-management-program/
 
 - **Azure Microsoft Sentinel Detection Lab**
   - Log ingestion, Kusto Query Language detections, and incident investigation case study  
