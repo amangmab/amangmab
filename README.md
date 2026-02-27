@@ -17,7 +17,7 @@ I build practical security projects that demonstrate security monitoring, alert 
   - Domain build, identity attack simulations (lab-only), and defensive controls with evidence  
   Repo: https://github.com/amangmab/active-directory-attack-defense
 
-- **Vulnerability Management Lab**
+- **Vulnerability Management Program**
   - Baseline scans, risk-based prioritization, remediation, and validation via re-scans  
   Repo: https://github.com/amangmab/vulnerability-management-program/
 
