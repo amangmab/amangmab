@@ -1,4 +1,4 @@
-# Aman Abraha — CyberSecurity Analyst (Portfolio)
+# Aman Abraha — Information Security Analyst (Portfolio)
 
 I build practical security projects that demonstrate security monitoring, alert triage, incident response, vulnerability management, and secure system hardening. My portfolio focuses on hands-on Security Operations Center (SOC) workflows with clear documentation and repeatable lab setups.
 
